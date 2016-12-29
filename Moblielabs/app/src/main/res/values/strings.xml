@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Moblielabs</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="homepage">首页</string>
+    <string name="news">新闻公告</string>
+    <string name="projects">项目库</string>
+    <string name="papers">论文专利</string>
+    <string name="game">比赛获奖</string>
+    <string name="blog">博客</string>
+    <string name="us">关于我们</string>
+    <string name="team">团队成员</string>
+    <string name="message">留言谈论</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

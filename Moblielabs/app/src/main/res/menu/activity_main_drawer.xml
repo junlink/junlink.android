@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_homepage"
+            android:icon="@drawable/ic_menu_homepage"
+            android:title="@string/homepage" />
+        <item
+            android:id="@+id/nav_news"
+            android:icon="@drawable/ic_menu_news"
+            android:title="@string/news" />
+        <item
+            android:id="@+id/nav_projects"
+            android:icon="@drawable/ic_menu_projects"
+            android:title="@string/projects" />
+        <item
+            android:id="@+id/nav_papers"
+            android:icon="@drawable/ic_menu_papers"
+            android:title="@string/papers" />
+        <item
+            android:id="@+id/nav_game"
+            android:icon="@drawable/ic_menu_games"
+            android:title="@string/game" />
+        <item
+            android:id="@+id/nav_blog"
+            android:icon="@drawable/ic_menu_blog"
+            android:title="@string/blog" />
+    </group>
+
+    <item android:title="about">
+        <menu>
+            <item
+                android:id="@+id/nav_us"
+                android:icon="@drawable/ic_menu_us"
+                android:title="@string/us" />
+            <item
+                android:id="@+id/nav_team"
+                android:icon="@drawable/ic_menu_team"
+                android:title="@string/team" />
+            <item
+                android:id="@+id/nav_message"
+                android:icon="@drawable/ic_menu_message"
+                android:title="@string/message" />
+        </menu>
+    </item>
+
+</menu>

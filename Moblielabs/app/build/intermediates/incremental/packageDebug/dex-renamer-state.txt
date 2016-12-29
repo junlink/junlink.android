@@ -1,0 +1,7 @@
+#Fri Dec 23 10:22:07 CST 2016
+base.0=D\:\\workplace\\android\\Moblielabs\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_39f5b884302197e3dadbb4b975a19dd0ff8aae27
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\workplace\\android\\Moblielabs\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_54591b81df6e04ad0f907662fcbe751db27dbb90\\classes.dex
+base.1=D\:\\workplace\\android\\Moblielabs\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_54591b81df6e04ad0f907662fcbe751db27dbb90
+file.0=D\:\\workplace\\android\\Moblielabs\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_39f5b884302197e3dadbb4b975a19dd0ff8aae27\\classes.dex

@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "D:\\workplace\\android\\Moblielabs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_news.xml",
+        "source": "D:\\workplace\\android\\Moblielabs\\app\\src\\main\\res\\drawable-v21\\ic_menu_news.xml"
+    },
+    {
+        "merged": "D:\\workplace\\android\\Moblielabs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_send.xml",
+        "source": "D:\\workplace\\android\\Moblielabs\\app\\src\\main\\res\\drawable-v21\\ic_menu_send.xml"
+    },
+    {
+        "merged": "D:\\workplace\\android\\Moblielabs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_papers.xml",
+        "source": "D:\\workplace\\android\\Moblielabs\\app\\src\\main\\res\\drawable-v21\\ic_menu_papers.xml"
+    },
+    {
+        "merged": "D:\\workplace\\android\\Moblielabs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_team.xml",
+        "source": "D:\\workplace\\android\\Moblielabs\\app\\src\\main\\res\\drawable-v21\\ic_menu_team.xml"
+    },
+    {
+        "merged": "D:\\workplace\\android\\Moblielabs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_games.xml",
+        "source": "D:\\workplace\\android\\Moblielabs\\app\\src\\main\\res\\drawable-v21\\ic_menu_games.xml"
+    },
+    {
+        "merged": "D:\\workplace\\android\\Moblielabs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_us.xml",
+        "source": "D:\\workplace\\android\\Moblielabs\\app\\src\\main\\res\\drawable-v21\\ic_menu_us.xml"
+    },
+    {
+        "merged": "D:\\workplace\\android\\Moblielabs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_message.xml",
+        "source": "D:\\workplace\\android\\Moblielabs\\app\\src\\main\\res\\drawable-v21\\ic_menu_message.xml"
+    },
+    {
+        "merged": "D:\\workplace\\android\\Moblielabs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\main_drawer_background.xml",
+        "source": "D:\\workplace\\android\\Moblielabs\\app\\src\\main\\res\\drawable-v21\\main_drawer_background.xml"
+    },
+    {
+        "merged": "D:\\workplace\\android\\Moblielabs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_manage.xml",
+        "source": "D:\\workplace\\android\\Moblielabs\\app\\src\\main\\res\\drawable-v21\\ic_menu_manage.xml"
+    },
+    {
+        "merged": "D:\\workplace\\android\\Moblielabs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "D:\\workplace\\android\\Moblielabs\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\workplace\\android\\Moblielabs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\nav_header_bar.png",
+        "source": "D:\\workplace\\android\\Moblielabs\\app\\src\\main\\res\\drawable-v21\\nav_header_bar.png"
+    },
+    {
+        "merged": "D:\\workplace\\android\\Moblielabs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "D:\\workplace\\android\\Moblielabs\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "D:\\workplace\\android\\Moblielabs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_share.xml",
+        "source": "D:\\workplace\\android\\Moblielabs\\app\\src\\main\\res\\drawable-v21\\ic_menu_share.xml"
+    },
+    {
+        "merged": "D:\\workplace\\android\\Moblielabs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "D:\\workplace\\android\\Moblielabs\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\workplace\\android\\Moblielabs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_projects.xml",
+        "source": "D:\\workplace\\android\\Moblielabs\\app\\src\\main\\res\\drawable-v21\\ic_menu_projects.xml"
+    },
+    {
+        "merged": "D:\\workplace\\android\\Moblielabs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_homepage.xml",
+        "source": "D:\\workplace\\android\\Moblielabs\\app\\src\\main\\res\\drawable-v21\\ic_menu_homepage.xml"
+    },
+    {
+        "merged": "D:\\workplace\\android\\Moblielabs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_blog.xml",
+        "source": "D:\\workplace\\android\\Moblielabs\\app\\src\\main\\res\\drawable-v21\\ic_menu_blog.xml"
+    }
+]

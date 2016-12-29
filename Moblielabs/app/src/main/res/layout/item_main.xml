@@ -1,0 +1,129 @@
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/id_cardview"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center_horizontal"
+    app:cardBackgroundColor="@color/main_white"
+    app:cardCornerRadius="8dp"
+    app:cardElevation="8dp"
+    app:cardMaxElevation="9dp"
+    app:cardUseCompatPadding="true"
+    app:cardPreventCornerOverlap="true"
+
+    >
+    <!--app:cardUseCompatPadding="true"-->
+
+    <!--
+    CardView就是一个卡片样式的FrameLayout。
+    参数介绍：
+        app:cardBackgroundColor  :   背景颜色
+        app:cardCornerRadius    ：   设置圆角。
+        app:cardElevation       ：    阴影。
+        app:cardMaxElevation    ：       最大阴影。
+        app:cardPreventCornerOverlap  ： 在v20和之前的版本中添加内边距，
+                                    这个属性是为了防止卡片内容和边角的重叠。
+       app:cardUseCompatPadding  ：  设置内边距，v21+的版本和之前的版本仍旧具有一样的计算方式
+-->
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RelativeLayout
+            android:id="@+id/news_header"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/news_user"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginLeft="5dp" />
+
+            <TextView
+                android:id="@+id/news_author"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@+id/news_user"
+                android:maxLines="1"
+                android:padding="5dp"
+                android:textColor="@color/main_black_grey"
+                android:textSize="20sp" />
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/news_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/news_header"
+            android:layout_marginLeft="30dp"
+            android:textSize="20sp"
+            android:maxLines="3" />
+        <TextView
+            android:id="@+id/news_summary"
+            android:layout_width="wrap_content"
+            android:layout_height="100dp"
+            android:layout_below="@+id/news_title"
+            android:layout_marginLeft="30dp"
+            android:layout_marginTop="5dp"/>s
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/news_summary"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/btn_share"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="20dp"
+                android:background="#00000000"
+                android:text="SHARE" />
+
+            <Button
+                android:id="@+id/btn_more"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="#00000000"
+                android:text="READ MORE"
+                android:textColor="#7AD3E0" />
+        </LinearLayout>
+    </RelativeLayout>
+
+    <!--<LinearLayout-->
+    <!--android:layout_width="fill_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:orientation="vertical">-->
+
+    <!--<TextView-->
+    <!--android:id="@+id/id_title"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:gravity="left"-->
+    <!--android:text="ABCD"-->
+    <!--android:textColor="@color/main_white"-->
+    <!--android:textSize="30sp" />-->
+
+    <!--&lt;!&ndash;<ImageView&ndash;&gt;-->
+    <!--&lt;!&ndash;android:id="@+id/user_pic"&ndash;&gt;-->
+    <!--&lt;!&ndash;android:layout_width="20dp"&ndash;&gt;-->
+    <!--&lt;!&ndash;android:layout_height="20dp"&ndash;&gt;-->
+    <!--&lt;!&ndash;android:layout_alignParentLeft="true"&ndash;&gt;-->
+    <!--&lt;!&ndash;android:layout_alignParentStart="true"&ndash;&gt;-->
+    <!--&lt;!&ndash;android:src="@drawable/ic_menu_us"/>&ndash;&gt;-->
+    <!--<TextView-->
+    <!--android:id="@+id/id_summary"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:textColor="@color/main_white"-->
+    <!--android:textSize="20sp" />-->
+
+    <!--</LinearLayout>-->
+
+
+</android.support.v7.widget.CardView>

@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\workplace\android\Moblielabs\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3df7cdffd2d19d4fc59bb23ff4659c1ed775d70b">
+        <dex dex="D:\workplace\android\Moblielabs\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_39f5b884302197e3dadbb4b975a19dd0ff8aae27\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workplace\android\Moblielabs\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a6cc8eaa88084c51400bdc1134e9acb9751d9f5c">
+        <dex dex="D:\workplace\android\Moblielabs\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_54591b81df6e04ad0f907662fcbe751db27dbb90\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workplace\android\Moblielabs\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\workplace\android\Moblielabs\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_7bcfae96a934991160a34769f3f843dab1430460\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workplace\android\Moblielabs\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="D:\workplace\android\Moblielabs\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_2bb5f1cd91ab1078c51168ffbedc3518692f5196\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workplace\android\Moblielabs\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\workplace\android\Moblielabs\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_e4b35e7d980c05f1d5d32fcdafb6a438888f0414\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workplace\android\Moblielabs\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\workplace\android\Moblielabs\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_13e349cfe4a88cea626e4675635a03c60b8b83da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workplace\android\Moblielabs\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\workplace\android\Moblielabs\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_8cbf6a2b4097110618271311907299db987411b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workplace\android\Moblielabs\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\workplace\android\Moblielabs\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_2bce32ba0a5581bfce3e6a3e4e625c2206c265d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workplace\android\Moblielabs\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\workplace\android\Moblielabs\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_bf8a78734100f406127325b3efd4181e2ca613c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android-sdk_r24.1.2-windows\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="D:\workplace\android\Moblielabs\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_39be1f4557acf57e5837b71635176b43ac60ea84\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workplace\android\Moblielabs\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\workplace\android\Moblielabs\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_2e8ea7d412514e4826117349515feb66c10c2eb2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\juu79\.gradle\caches\modules-2\files-2.1\org.jsoup\jsoup\1.9.2\5e3bda828a80c7a21dfbe2308d1755759c2fd7b4\jsoup-1.9.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5e3bda828a80c7a21dfbe2308d1755759c2fd7b4">
+        <dex dex="D:\workplace\android\Moblielabs\app\build\intermediates\transforms\dex\debug\folders\1000\10\jsoup-1.9.2_55458c96a7f283f19a4f56b2c47f5fba1d7c14e0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workplace\android\Moblielabs\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\workplace\android\Moblielabs\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_b67625bf4fd2dcacacde20e2c340cb038d0d9104\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workplace\android\Moblielabs\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\workplace\android\Moblielabs\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_619c78138681f0b9c7297c2124b3ea4cc7844ed7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workplace\android\Moblielabs\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="D:\workplace\android\Moblielabs\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_be649a5fdd4f4e7f4c8d41ee61f8d77c2797f198\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workplace\android\Moblielabs\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\workplace\android\Moblielabs\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_9e5b4dc2c169500adfc40156107e18a87104dadf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workplace\android\Moblielabs\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="D:\workplace\android\Moblielabs\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.2.1_f03590207b419e0c63498647559ccce0f5b9fab4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workplace\android\Moblielabs\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\workplace\android\Moblielabs\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_6d1cd15a686cf2b7a6b1c496c0e0827bb2602f39\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workplace\android\Moblielabs\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\workplace\android\Moblielabs\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_ff14e9bb8a745964f14ce1524d38876b34a61f2c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workplace\android\Moblielabs\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="D:\workplace\android\Moblielabs\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_cc756f133b7e9e61976be0ea3538d238096c29c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workplace\android\Moblielabs\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\workplace\android\Moblielabs\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_bd77a301543238b4065b48f27b92f5a61405c355\classes.dex" />
+    </item>
+
+</items>

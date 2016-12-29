@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="22"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="334445290464354"
+    token="-3555208007000500002"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="3895" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="3586" />
+    <task
+        name="verifier"
+        duration="1183" />
+
+    <artifact
+        location="D:\workplace\android\Moblielabs\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
+        type="DEX" />
+
+    <build
+        timestamp="332807541590152"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="D:\workplace\android\Moblielabs\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="334445290464354"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="D:\workplace\android\Moblielabs\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>
